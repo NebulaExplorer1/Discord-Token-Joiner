@@ -1,3 +1,2 @@
 # Discord-Token-Joiner
-
-A M
+## Description
